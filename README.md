@@ -42,8 +42,8 @@ My work focuses on architecting and delivering scalable, production-ready applic
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gisselle546&show_icons=true&theme=github_dark" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gisselle546&theme=github-dark&hide_border=true" height="180px" />
 </p>
 
 ---
