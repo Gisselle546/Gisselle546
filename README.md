@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Gisselle Rodriguez</h1>
+<h1 align="center">Hey 👋 I'm Gisselle Rodriguez</h1>
 <h3 align="center">Full Stack Developer | DevOps Engineer | AI-Driven App Architect</h3>
 
 <p align="center">
@@ -34,8 +34,6 @@ My work focuses on architecting and delivering scalable, production-ready applic
 - 🤖 **AI Services Using LLMs** — Retrieval-augmented generation (RAG) pipelines integrated with AWS Bedrock to deliver tone-aware summaries and intelligent interactions
 - 🔐 **DevSecOps Infrastructure** — Secure, automated deployment pipelines using Terraform, GitHub Actions, SonarQube, ArgoCD, and Kubernetes
 
-> All systems are containerized, follow API-first design, and incorporate CI/CD pipelines for production-readiness.
-
 
 ---
 
@@ -43,7 +41,7 @@ My work focuses on architecting and delivering scalable, production-ready applic
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gisselle546&show_icons=true&theme=github_dark" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gisselle546&theme=github-dark&hide_border=true" height="180px" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gisselle546)](https://git.io/streak-stats)
 </p>
 
 ---
