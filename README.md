@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | DevOps Engineer | AI-Driven App Architect</h3>
 
 <p align="center">
-  🚀 Building scalable microservices · 🎯 Specializing in backend, infra & AI pipelines · 🌍 Based in the US · 💬 Fluent in English, Spanish & Catalan
+  🚀 Building scalable microservices · 🎯 Specializing in fullstack, infrastructure, data & AI pipelines · 🌍 Based in the US · 💬 Fluent in English, Spanish & Catalan
 </p>
 
 ---
