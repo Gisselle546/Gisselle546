@@ -41,7 +41,7 @@ My work focuses on architecting and delivering scalable, production-ready applic
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gisselle546&show_icons=true&theme=github_dark" height="180px" />
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gisselle546)](https://git.io/streak-stats)]
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gisselle546" alt="GitHub Streak" /></a>
 </p>
 
 ---
