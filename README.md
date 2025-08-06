@@ -37,14 +37,6 @@ My work focuses on architecting and delivering scalable, production-ready applic
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gisselle546&show_icons=true&theme=github_dark" height="180px" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gisselle546"/></a>
-</p>
-
----
 
 ## 📬 Contact
 
