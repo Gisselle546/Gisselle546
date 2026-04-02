@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋 I'm Gisselle Rodriguez</h1>
-<h3 align="center">Full Stack Developer | DevOps Engineer | AI-Driven App Architect</h3>
+<h1 align="center">Hey I'm Gisselle Rodriguez</h1>
+<h3 align="center">Full Stack Developer | DevOps Engineer | AI Engineer </h3>
 
 <p align="center">
-  🚀 Building scalable microservices · 🎯 Specializing in fullstack, infrastructure, data & AI pipelines · 🌍 Based in the US · 💬 Fluent in English, Spanish 
+  🚀 Building scalable microservices · 🎯 Specializing in fullstack, infrastructure, data & AI pipelines · 🌍 Based in the US · 💬 Fluent in English and Spanish 
 </p>
 
 ---
